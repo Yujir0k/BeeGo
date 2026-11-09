@@ -10,7 +10,7 @@
 |---|---|---|---|
 | **R² negative** | **2-е место** | **600 000 ₽** | Интеллектуальное планирование маршрутов инженеров |
 
-Это личная копия проекта участника команды Игоря Борисова. [Исходный командный репозиторий](https://github.com/R2NN/scaszc).
+Проект создан командой R² negative при участии Игоря Борисова.
 
 <p align="center"><img src="beego-team.png" width="65%" alt="Команда R² negative на награждении" /></p>
 <p align="center"><img src="beego-diploma.png" width="65%" alt="Диплом Игоря Борисова за второе место" /></p>
@@ -586,3 +586,32 @@ docker compose -f compose.complete.yaml ps
 ---
 
 **Продолжить:** [форматы и источники данных](docs/reference/data.md) · [модель планирования](docs/reference/planning.md) · [пользовательские сценарии](docs/reference/product.md) · [развёртывание и восстановление](docs/operations/deployment.md)
+
+## Презентация
+
+[Открыть презентацию в PDF](docs/hackathon-presentation/presentation.pdf)
+
+<details>
+<summary>Листать презентацию прямо в README</summary>
+
+<p align="center">
+  <img src="docs/hackathon-presentation/slide-01.jpg" alt="Презентация BeeGo, слайд 1" width="90%" />
+  <img src="docs/hackathon-presentation/slide-02.jpg" alt="Презентация BeeGo, слайд 2" width="90%" />
+  <img src="docs/hackathon-presentation/slide-03.jpg" alt="Презентация BeeGo, слайд 3" width="90%" />
+  <img src="docs/hackathon-presentation/slide-04.jpg" alt="Презентация BeeGo, слайд 4" width="90%" />
+  <img src="docs/hackathon-presentation/slide-05.jpg" alt="Презентация BeeGo, слайд 5" width="90%" />
+  <img src="docs/hackathon-presentation/slide-06.jpg" alt="Презентация BeeGo, слайд 6" width="90%" />
+  <img src="docs/hackathon-presentation/slide-07.jpg" alt="Презентация BeeGo, слайд 7" width="90%" />
+  <img src="docs/hackathon-presentation/slide-08.jpg" alt="Презентация BeeGo, слайд 8" width="90%" />
+  <img src="docs/hackathon-presentation/slide-09.jpg" alt="Презентация BeeGo, слайд 9" width="90%" />
+  <img src="docs/hackathon-presentation/slide-10.jpg" alt="Презентация BeeGo, слайд 10" width="90%" />
+  <img src="docs/hackathon-presentation/slide-11.jpg" alt="Презентация BeeGo, слайд 11" width="90%" />
+  <img src="docs/hackathon-presentation/slide-12.jpg" alt="Презентация BeeGo, слайд 12" width="90%" />
+  <img src="docs/hackathon-presentation/slide-13.jpg" alt="Презентация BeeGo, слайд 13" width="90%" />
+  <img src="docs/hackathon-presentation/slide-14.jpg" alt="Презентация BeeGo, слайд 14" width="90%" />
+  <img src="docs/hackathon-presentation/slide-15.jpg" alt="Презентация BeeGo, слайд 15" width="90%" />
+</p>
+
+</details>
+
+---
