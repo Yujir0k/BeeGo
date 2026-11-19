@@ -609,4 +609,4 @@ docker compose -f compose.complete.yaml ps
 
 ## Диплом
 
-<p align="center"><img src="beego-diploma.png" width="65%" alt="Диплом Игоря Борисова за второе место" /></p>
+<p align="center"><img src="docs/certificates/18_LCT_BeeGo_2nd.png" width="65%" alt="Диплом Игоря Борисова за второе место" /></p>
